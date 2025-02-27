@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/avl tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bst" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hashmap hashset freqcount" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practicequick" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sort" vcs="Git" />
+  </component>
+</project>

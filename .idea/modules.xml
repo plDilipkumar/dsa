@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/avl tree/avl tree.iml" filepath="$PROJECT_DIR$/avl tree/avl tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarysearch/binarysearch.iml" filepath="$PROJECT_DIR$/binarysearch/binarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarysearchusingrecursion/binarysearchusingrecursion.iml" filepath="$PROJECT_DIR$/binarysearchusingrecursion/binarysearchusingrecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bst/bst.iml" filepath="$PROJECT_DIR$/bst/bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dsa.iml" filepath="$PROJECT_DIR$/.idea/dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap hashset freqcount/hashmap hashset freqcount.iml" filepath="$PROJECT_DIR$/hashmap hashset freqcount/hashmap hashset freqcount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice2/practice2.iml" filepath="$PROJECT_DIR$/practice2/practice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicequick/practicequick.iml" filepath="$PROJECT_DIR$/practicequick/practicequick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
